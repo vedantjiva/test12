@@ -1,2 +1,6 @@
-FROM nginx:alpine
-COPY index.html /usr/share/nginx/html
+FROM vedant1206/dcw
+COPY index.html /var/www/hml
+
+
+
+
